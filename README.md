@@ -7,7 +7,7 @@ This tutorial implements a Collaborative Filtering Recommendation System using t
 
 ## Project Overview
 
-- **Objective**: Predicting the sensitivity (rating) of cancer cell lines to anticancer drugs using collaborative filtering.
+- **Objective**: Predicting the sensitivity (rating) of cancer cell lines (user) to anticancer drugs (item) using collaborative filtering.
 - **Data Source**: 
   - Barretina,J. et al. (2012) [The Cancer Cell Line Encyclopedia enables predictive modeling of anticancer drug sensitivity. Nature, 483, 603-607](https://www.nature.com/articles/nature11003).
 - **Dataset Preprocessing**:
