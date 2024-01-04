@@ -11,5 +11,5 @@ This tutorial implements a Collaborative Filtering Recommendation System using t
 - **Data Source**: 
   - Barretina,J. et al. (2012) [The Cancer Cell Line Encyclopedia enables predictive modeling of anticancer drug sensitivity. Nature, 483, 603-607](https://www.nature.com/articles/nature11003).
 - **Dataset Preprocessing**:
-  - The dataset has been preprocessed into IC50 values using the Bayesian sigmoid method.
+  - The dataset has been normalized into IC50 values using the Bayesian sigmoid method.
   - Acknowledgment to C. Suphavilai, D. Bertrand, and N. Nagarajan for their dataset preprocessing work ([Predicting Cancer Drug Response using a Recommender System](https://doi.org/10.1093/bioinformatics/bty452)).
