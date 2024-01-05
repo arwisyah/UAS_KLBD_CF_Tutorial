@@ -13,3 +13,6 @@ This tutorial implements a Collaborative Filtering Recommendation System using t
 - **Dataset Preprocessing**:
   - The dataset has been normalized into IC50 values using the Bayesian sigmoid method.
   - Acknowledgment to C. Suphavilai, D. Bertrand, and N. Nagarajan for their dataset preprocessing work ([Predicting Cancer Drug Response using a Recommender System](https://doi.org/10.1093/bioinformatics/bty452)).
+
+## Theory and Implementation Explanation
+https://drive.google.com/file/d/1xa2bmaRomM8-kZikB0Z9H4BRg0fXhnj_/view?usp=sharing
